@@ -1,0 +1,14 @@
+header{
+    background-color: blue(31, 62, 199);
+    color: aqua(247, 245, 236);
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+}
+main {
+    background-color: blueviolet(12, 77, 134);
+    color: black (255, 252, 237);
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+}
